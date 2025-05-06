@@ -15,8 +15,8 @@ Check [notebook](./lift.ipynb)
 ## TL;DR
 Left one does ~2x more work:
 ```
-Lift 4606717504: at 1, wear: 493435
-Lift 4571213136: at 0, wear: 226432
+Lift 4606717504: at 5, wear: 494535
+Lift 4613068176: at 0, wear: 226344
 ```
 
 ## Run locally
