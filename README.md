@@ -8,6 +8,8 @@ Lift 4606717504: at 5, wear: 494535
 Lift 4613068176: at 0, wear: 226344
 ```
 
+UPD: the left one got finally broken `¯\_(ツ)_/¯`
+
 ## Story
 In my builing we have 2 lifts with one button that calls the closest one.
 Noticed that when both of them are on the same floor, the left one will arrive.
